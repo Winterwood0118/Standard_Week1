@@ -12,5 +12,19 @@
         <item name="android:textAllCaps">false</item>
     </style>
 
+    <style name="btn_both" parent="Widget.AppCompat.Button">
+        <item name="backgroundTint">@color/bg_pink</item>
+        <item name="android:background">@drawable/btn_style_both</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="et_white" parent="Widget.AppCompat.EditText">
+        <item name="android:textSize">15sp</item>
+        <item name="android:inputType">textVisiblePassword</item>
+        <item name="android:background">@drawable/bg_et</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:padding">15dp</item>
+    </style>
+
 
 </resources>

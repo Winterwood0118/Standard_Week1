@@ -1,3 +1,13 @@
-<resources>
-    <string name="app_name">Standard_Week1</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">Standard_Week1</string>
+    <string name="text_register">Register</string>
+    <string name="text_sign_in">Sign In</string>
+    <string name="text_tmi">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam maecenas mi non sed ut odio. Non, justo, sed facilisi et. Eget viverra urna, vestibulum egestas faucibus egestas. Sagittis nam velit volutpat eu nunc.</string>
+    <string name="text_main">Discover Your \n Own Dream House</string>
+    <string name="text_login"> Welcome Back</string>
+    <string name="hint_id">Username, Email &amp; Phone Number </string>
+    <string name="hint_password">Password</string>
+    <string name="text_or">Or Sign up With</string>
+    <string name="text_forgot">Forgot Password ?</string>
+
 </resources>
